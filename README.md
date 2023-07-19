@@ -1,4 +1,4 @@
-# Vendr - React Native
+# Vendr (iOS)
 
 Vendr is a mobile e-commerce application built using React Native. It provides a seamless shopping experience with features such as product browsing, cart management, user authentication, and a secure checkout process.
 
